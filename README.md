@@ -1,7 +1,10 @@
 # Building a Student Database using .NET and Docker
 
 
-## How to Build a Docker Image
+
+
+
+## Getting Started
 
 
 ### Clone the repository
@@ -56,3 +59,8 @@ ajeetraina@Docker-Ajeet-Singh-Rainas-MacBook-Pro myWebApp % docker ps
 CONTAINER ID   IMAGE                                      COMMAND                  CREATED         STATUS         PORTS                                                                                                 NAMES
 0d5cf0d60ef5   mywebapp                                   "./myWebApp"             3 seconds ago   Up 2 seconds   0.0.0.0:5000->80/tcp                                                                                  goofy_pare
 ```
+
+
+## Reference:
+
+- [Blog Post](https://www.docker.com/blog/building-multi-container-net-app-using-docker-desktop/)
